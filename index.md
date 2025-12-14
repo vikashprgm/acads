@@ -10,11 +10,7 @@ title: Home - Academics
     </ul>
 </div>
 
-## Course Material
-* [Lecture 1: Introduction to Calculus](lecture1.pdf)
-* [Lecture 2: Limits and Continuity](lecture2.pdf)
-* [Assignment 1 (Due: Aug 20)](assignment1.pdf)
+## PYQs
+* [Browse Previous Year Questions (PYQs)](/pyqs/)
 
 ## Important Links
-* [Course Policy](#)
-* [Previous Year Papers](#)
