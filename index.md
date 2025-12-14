@@ -11,6 +11,6 @@ title: Home - Academics
 </div>
 
 ## PYQs
-* [Browse Previous Year Questions (PYQs)](/pyqs/)
+* [Browse Previous Year Questions (PYQs)](pyqs/)
 
 ## Important Links
